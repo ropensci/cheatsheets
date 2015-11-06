@@ -10,3 +10,4 @@ Download:
 * taxize cheatsheet: [pdf](taxize/taxize-cheatsheet.pdf) [jpg](taxize/taxize-cheatsheet.jpg)
 * rgbif cheatsheet: [pdf](rgbif/rgbif-cheatsheet.pdf) [jpg](rgbif/rgbif-cheatsheet)
 * spocc cheatsheet: [pdf](spocc/spocc-cheatsheet.pdf) [jpg](spocc/spocc-cheatsheet)
+* elastic cheatsheet: [pdf](elastic/elastic-cheatsheet.pdf) [jpg](elastic/elastic-cheatsheet)
