@@ -8,3 +8,4 @@ Within each directory should be a `.key` file used to create the cheatsheet, and
 Download:
 
 * taxize cheatsheet: [pdf](taxize/taxize-cheatsheet.pdf) [jpg](taxize/taxize-cheatsheet.jpg)
+* rgbif cheatsheet: [pdf](rgbif/rgbif-cheatsheet.pdf) [jpg](rgbif/rgbif-cheatsheet.jpg)
