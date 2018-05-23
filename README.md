@@ -1,5 +1,9 @@
+[![Project Status: Suspended – Initial development has started, but there has not yet been a stable, usable release; work has been stopped for the time being but the author(s) intend on resuming work.](http://www.repostatus.org/badges/latest/suspended.svg)](http://www.repostatus.org/#suspended)
+
 rOpenSci Cheatsheets
 ====================
+
+_Contributions are welcome, open an issue!_
 
 Each directory holds a cheatsheet for a particular package, or a topic (covering many packages).
 
